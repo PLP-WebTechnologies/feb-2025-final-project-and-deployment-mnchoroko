@@ -1,25 +1,21 @@
-# Final Project and Deployment
+# Bloodlink Africa
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+## Vision
+To bridge the gap between blood donors and recipients across Africa by providing a digital platform for timely and efficient blood donations.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## Features
+- User Registration & Login
+- Real-Time Matching & Alerts
+- Hospital Integration
+- Location-Based Search
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
-## Tasks
+## Deployment
+Live URL:https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-mnchoroko/
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
-
-Good luck and happy coding! 🚀💻
+## Contact
+For any inquiries, please contact us at support@bloodlinkafrica.com.
